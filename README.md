@@ -1,3 +1,3 @@
 # keerthi-demo
-this is my first git repository
+this is my first git repository.
 Author - Keerthana.V
